@@ -178,41 +178,11 @@ The server includes robust error handling for:
 
 ## Dependencies
 
-- **yfinance**: Yahoo Finance API access
+- **yfinance**: Yahoo Finance access
 - **mcp**: Model Context Protocol framework
 - **logging**: Built-in Python logging
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
 This tool is for informational purposes only and should not be considered as financial advice. Always consult with qualified financial professionals before making investment decisions.
-
-## Support
-
-For issues, questions, or feature requests, please:
-1. Check the [Issues](https://github.com/yourusername/enhanced-finance-mcp-server/issues) page
-2. Create a new issue if your problem isn't already listed
-3. Provide detailed information about your setup and the issue
-
-## Changelog
-
-### v1.0.0
-- Initial release with comprehensive financial metrics
-- Support for 11 different analysis categories
-- Robust error handling and data formatting
-- Complete MCP integration
-
----
-
-**Built with ❤️ for the MCP ecosystem**
