@@ -1,6 +1,7 @@
 # Enhanced Finance MCP Server 📈
 
-A comprehensive Model Context Protocol (MCP) server that provides detailed stock market data and financial KPIs using the Yahoo Finance API. This server offers extensive financial analysis capabilities through multiple specialized tools.
+A Model Context Protocol (MCP) server that provides detailed stock market data and financial KPIs from Yahoo Finance. This server offers financial analysis capabilities through the amazing yfinance library!
+
 
 ## Features
 
